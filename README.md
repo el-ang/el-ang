@@ -1,2 +1,2 @@
 # el-ang
- My GitHub Profile Portofolio.
+ My GitHub Profile Portfolio.
