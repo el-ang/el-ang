@@ -1,0 +1,375 @@
+:root{
+    --bg: #0f0f0f;
+    --bg-accent: #202020;
+    --text: #f0f0f0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: var(--text);
+}
+
+body{
+    width: 100vw;
+    min-height: 100vh;
+    background: var(--bg);
+}
+
+body>*{width: 100%;}
+
+header{
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    background: var(--bg-accent);
+}
+
+header, header *{
+    border-radius: 0 0 2rem 2rem;
+    transition: .5s ease-out;
+}
+
+header h1{
+    margin: 2rem;
+    align-self: center;
+}
+
+header nav{
+    width: 21rem;
+    height: calc(100% - 1rem);
+    padding: 1rem;
+    margin: 1rem;
+    margin-top: 0;
+    background: #282828;
+    align-self: flex-start;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+nav *{display: block;}
+
+nav a{
+    width: 4rem;
+    height: max-content;
+    padding: 1rem;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+nav b{
+    width: 100%;
+    height: max-content;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    writing-mode: vertical-lr;
+    vertical-align: middle;
+}
+
+nav i{
+    width: 2rem;
+    height: 2rem;
+}
+
+nav a:hover{transform: translateY(calc(100% - 4rem));}
+
+nav a:hover b{margin-bottom: 1rem;}
+
+nav #fun{background: #cc6060;}
+
+nav #fun i::before{
+    -webkit-mask: url(./asset/fun0.svg) no-repeat 50% 50%;
+    mask: url(./asset/fun0.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    animation: funMute 1s;
+}
+
+nav #fun i::after{
+    -webkit-mask: url(./asset/fun1.svg) no-repeat 50% 50%;
+    mask: url(./asset/fun1.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    opacity: 0;
+    transform: rotate(-90deg);
+}
+
+nav #fun:hover i::before{animation: funIconB 5s infinite;}
+
+nav #fun:hover i::after{animation: funIconA 5s infinite;}
+
+@keyframes funMute {to{transform: rotate(-360deg);}}
+
+@keyframes funIconA {
+    10%{
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+    50%{
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+    60%{
+        opacity: 0;
+        transform: rotate(90deg);
+    }
+}
+
+@keyframes funIconB {
+    10%{
+        opacity: 0;
+        transform: rotate(90deg);
+    }
+    49%{
+        transform: rotate(90deg);
+    }
+    50%{
+        opacity: 0;
+        transform: rotate(-90deg);
+    }
+    60%{
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+}
+
+nav #art::before{
+    content: "";
+    width: min(70vw, 70vh);
+    height: min(70vw, 70vh);
+    position: absolute;
+    top: calc(max(-35vw, -35vh) + 50%);
+    left: calc(max(-35vw, -35vh) + 50%);
+    z-index: -1;
+    background:
+        linear-gradient(217deg, #f0cf4f, #ff00 90%),
+        #8c60cf;
+    animation: spin 7s linear infinite;
+}
+
+@keyframes spin{
+    to{transform: rotate(360deg);}
+}
+
+nav #art i::before{
+    -webkit-mask: url(./asset/artX.svg) no-repeat 50% 50%;
+    mask: url(./asset/artX.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    animation: artMute 2s;
+}
+
+nav #art:hover i::before{
+    animation:
+        artMove 2.5s infinite,
+        artIcon 7.5s infinite;
+}
+
+@keyframes artMute{
+    10%{
+        opacity: .25;
+        transform: rotate(-22.5deg);
+    }
+    20%{transform: rotate(45deg);}
+    40%{
+        opacity: 1;
+        transform: rotate(-11.25deg);;
+    }
+    80%{transform: rotate(0deg);}
+}
+
+@keyframes artIcon{
+    3.3%, 72.6%{
+        -webkit-mask: url(./asset/artX.svg) no-repeat 50% 50%;
+        mask: url(./asset/artX.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    6.6%, 36.3%{
+        -webkit-mask: url(./asset/artY.svg) no-repeat 50% 50%;
+        mask: url(./asset/artY.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    39.6%, 69.3%{
+        -webkit-mask: url(./asset/artZ.svg) no-repeat 50% 50%;
+        mask: url(./asset/artZ.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+}
+
+@keyframes artMove{
+    10%{transform: rotate(-22.5deg);}
+    20%{transform: rotate(45deg);}
+    40%{transform: rotate(0deg);}
+}
+
+nav #work{background: #6060cf;}
+
+nav #work i::before{
+    -webkit-mask: url(./asset/workX.svg) no-repeat 50% 50%;
+    mask: url(./asset/workX.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    animation: workMute 1s;
+}
+
+nav #work i::after{
+    -webkit-mask: url(./asset/workY.svg) no-repeat 50% 50%;
+    mask: url(./asset/workY.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    opacity: 0;
+}
+
+nav #work:hover i::before{
+    animation:
+        workFade 2.5s infinite,
+        workIconB 7.5s infinite;
+}
+
+nav #work:hover i::after{
+    animation:
+        workPop 2.5s infinite,
+        workIconA 7.5s infinite;
+}
+
+@keyframes workMute{
+    10%{
+        opacity: 0;
+        transform: scale(.75);
+    }
+    20%{transform: scale(1.25);}
+    40%{
+        opacity: 1;
+        transform: scale(.75);
+    }
+    80%{transform: scale(1);}
+}
+
+@keyframes workIconA{
+    16.65%{
+        -webkit-mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    16.66%{
+        -webkit-mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    49.98%{
+        -webkit-mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    49.99%{
+        -webkit-mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    83.31%{
+        -webkit-mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    83.32%{
+        -webkit-mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+}
+
+@keyframes workIconB{
+    16.65%{
+        -webkit-mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    16.66%{
+        -webkit-mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    49.98%{
+        -webkit-mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        mask: url(./asset/workY.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    49.99%{
+        -webkit-mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    83.31%{
+        -webkit-mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        mask: url(./asset/workZ.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    83.32%{
+        -webkit-mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        mask: url(./asset/workX.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+}
+
+@keyframes workPop{
+    10%{
+        opacity: 0;
+        transform: scale(.75);
+    }
+    20%{transform: scale(1.25);}
+    30%{
+        opacity: 1;
+        transform: scale(1);
+    }
+    49.98%{opacity: 1;}
+    49.99%{opacity: 0;}
+}
+
+@keyframes workFade{
+    10%{
+        opacity: 1;
+        transform: scale(1.25);
+    }
+    20%{transform: scale(.75);}
+    30%{
+        opacity: 0;
+        transform: scale(1);
+    }
+    49.98%{opacity: 0;}
+    49.99%{opacity: 1;}
+}
+
+nav #shop{background: #88c060;}
+
+nav i::before, nav i::after{
+    content: "";
+    width: 2rem;
+    height: 2rem;
+    display: inline-block;
+    position: absolute;
+}
