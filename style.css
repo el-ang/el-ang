@@ -4,27 +4,36 @@
     --text: #f0f0f0;
 }
 
+*::-webkit-scrollbar{width: .5em;}
+   
+*::-webkit-scrollbar-thumb{background: rgba(128, 128, 128, .1);}
+
+*::-webkit-scrollbar-thumb:hover{background: rgba(128, 128, 128, .5);}
+
+*::-webkit-scrollbar-thumb:active{background: rgba(128, 128, 128, 1);}
+
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     color: var(--text);
 }
 
 body{
-    width: 100vw;
     min-height: 100vh;
     background: var(--bg);
 }
 
-body>*{width: 100%;}
+body, body>*{width: 100%;}
 
 header{
     height: 6rem;
     display: flex;
     justify-content: space-between;
     background: var(--bg-accent);
+    position: fixed;
+    top: 0;
 }
 
 header, header *{
@@ -164,26 +173,13 @@ nav #art i::before{
     -webkit-mask-size: contain;
     mask-size: contain;
     background: currentColor;
-    animation: artMute 2s;
+    animation: defMute 2s;
 }
 
 nav #art:hover i::before{
     animation:
-        artMove 2.5s infinite,
+        defMove 2.5s infinite,
         artIcon 7.5s infinite;
-}
-
-@keyframes artMute{
-    10%{
-        opacity: .25;
-        transform: rotate(-22.5deg);
-    }
-    20%{transform: rotate(45deg);}
-    40%{
-        opacity: 1;
-        transform: rotate(-11.25deg);;
-    }
-    80%{transform: rotate(0deg);}
 }
 
 @keyframes artIcon{
@@ -205,12 +201,6 @@ nav #art:hover i::before{
         -webkit-mask-size: contain;
         mask-size: contain;
     }
-}
-
-@keyframes artMove{
-    10%{transform: rotate(-22.5deg);}
-    20%{transform: rotate(45deg);}
-    40%{transform: rotate(0deg);}
 }
 
 nav #work{background: #6060cf;}
@@ -366,10 +356,72 @@ nav #work:hover i::after{
 
 nav #shop{background: #88c060;}
 
+nav #shop i::before{
+    -webkit-mask: url(./asset/shop0.svg) no-repeat 50% 50%;
+    mask: url(./asset/shop0.svg) no-repeat 50% 50%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background: currentColor;
+    animation: defMute 2s;
+}
+
+nav #shop:hover i::before{
+    animation:
+        defMove 2.5s infinite,
+        shopIcon 5s infinite;
+}
+
+@keyframes shopIcon{
+    5%, 60%{
+        -webkit-mask: url(./asset/shop0.svg) no-repeat 50% 50%;
+        mask: url(./asset/shop0.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+    10%, 55%{
+        -webkit-mask: url(./asset/shop1.svg) no-repeat 50% 50%;
+        mask: url(./asset/shop1.svg) no-repeat 50% 50%;
+        -webkit-mask-size: contain;
+        mask-size: contain;
+    }
+}
+
 nav i::before, nav i::after{
     content: "";
     width: 2rem;
     height: 2rem;
     display: inline-block;
     position: absolute;
+}
+
+
+@keyframes defMute{
+    0%{opacity: 0;}
+    10%{
+        opacity: .25;
+        transform: rotate(-22.5deg);
+    }
+    20%{transform: rotate(45deg);}
+    40%{
+        opacity: 1;
+        transform: rotate(-11.25deg);;
+    }
+    80%{transform: rotate(0deg);}
+}
+
+@keyframes defMove{
+    10%{transform: rotate(-22.5deg);}
+    20%{transform: rotate(45deg);}
+    40%{transform: rotate(0deg);}
+}
+
+main{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    min-height: calc(100vh / 3);
 }
