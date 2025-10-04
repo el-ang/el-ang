@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 18">
+    <style>
+        .res {
+            --bg: #6424ff;
+        }
+
+        .send {
+            --bg: #ff3636;
+        }
+
+        .out.bubble {
+            fill: var(--bg);
+        }
+
+        .chat.bubble {
+            rx: 4;
+            ry: 4;
+            fill: var(--bg);
+        }
+        
+        .chat.text {
+            font-family: sans-serif;
+            font-size: 12px;
+            fill: #fff;
+        }
+    </style>
+    <path class="out bubble res" d="M 0,0 L 8,0 L 4,4 Z"/>
+    <rect class="chat bubble res" x="4" y="0" width="105" height="18"/>
+    <text class="chat text" x="8" y="13">who tf need stats?</text>
+</svg>

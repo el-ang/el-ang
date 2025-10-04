@@ -1,48 +1,49 @@
-# el-ang
-*Welcome visitor!*
+<h1 align="center">Sneak Peek</h1>
 
-<img src="./asset/yoru.png" title="my curiosity in my visitor"><br>
+![NULL](null.png)
+&emsp;&emsp;&emsp;A Multi-Disciplinary Generalist. Enjoy learning, creating, and solving. But I'm apologize if sometimes I cause problems. Simpleton with complex mind. Build for combat, live for colab. I have many interests, skills, and hobbies. Hang out with a girl is one of 'em (I'm a valid official straight not gay). Ofc, i have buddies and secrets (I'm only human afterall). Evaluations are relative, so better face or test me directly (If you dare to know me better).
 
-&emsp;This is my portofolio in the internet. I like games, memes, music, movie, anime, pets, and coding. I'm very good at swimming (and surfing the web), also a little on any sport. I love my mom and her cook. I am noob, slow, and many skill issue. My life is not very good, a bit in the edge of the cliff. I'm not very good at socializing and being discipline, but i'm trying to be better.
+<h2 align="center">Stack</h2>
+<p align="center">
 
-&emsp;**Still looking for a job**, because i'm broke. But i'm only *comfortable with part-time job*, because my schedule is a mess and i think i still have less experience that i need to learn more. And i only have months of part-time experience at a small giftshop store.
+| Tech | Tools | Games |
+| :-: | :-: | :-: |
+| <img src="https://cdn.simpleicons.org/javascript/ffcf36" alt="JavaScript" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/6424ff" alt="Python" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/lua/6424ff" alt="Lua" width="32" height="32"/><br><img src="svg/vulkan.svg" alt="Vulkan" width="128"/> | <img src="svg/vsc.svg" alt="Visual Studio Code" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/6424ff" alt="Figma" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/6424ff" alt="GitHub" width="32" height="32"/><br><img src="svg/adb.svg" alt="Adobe" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/64cf8f" alt="OpenAI" width="32" height="32"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude/ff3636" alt="Claude" width="32" height="32"/> | <img src="https://cdn.simpleicons.org/valorant/ff3636" alt="Valorant" width="32" height="36"/>&nbsp;&nbsp;<img src="svg/mc.svg" alt="Minecraft" width="32" height="36"/>&nbsp;<img src="https://raw.githubusercontent.com/Anuken/Mindustry/refs/heads/master/core/assets/icons/icon.ico" alt="Mindustry" height="36"/><br><b><sup>Invite Me!</sup></b><br>[![Discord](https://img.shields.io/badge/el.ang__-6424ff?logo=discord&logoColor=white)](https://discord.com/users/668427384910905354)&nbsp;&nbsp;[![Steam](https://img.shields.io/badge/el--ang-6424ff?logo=steam&logoColor=white)](https://steamcommunity.com/id/el-ang)&nbsp;&nbsp;![Itch.io](https://img.shields.io/badge/Coming_Soon-ff3636?logo=itch.io&logoColor=white) |
+</p>
 
-&emsp;My dream was to become a **President**, but i think i'm just gonna lower it to any kind of president. It's just because i live in a conflictful place, so i want to make a good change and fix all the mess that've been made. I also want to have a *Cafe, my own studio and merch shop*. That's all still a dream, but i'm working on it.
+<h2 align="center">Music</h2>
+<table align="center"><tr align="center"><td>
 
-## Things i want to learn
-- [x] Coding
-- [ ] Robotic & Electronics (20%)
-- [ ] Designing (1/2)
-- [ ] Drawing (10%)
-- [ ] Animating
-- [ ] Photography (80%)
-- [ ] Videography (10%) (don't have budget :sweat_smile:)
-- [ ] Editing (1/2)
-- [ ] Fashion (1/2)
-- [ ] Skateboard
-- [x] Writing (don't have motivation :smiling_face_with_tear:)
-- [ ] Language (1/2)
-- [ ] Speaking (20%)
-- [ ] Music
-- [ ] Guitar (1%)
-- [ ] Singing (1/2)
-- [ ] Dancing (10%)
-- [ ] Cooking and drink serving (10%)
-- [ ] Self defense (i live in toxic environment and have a harsh polite father :sweat_smile:)
-- [ ] Talk to a girl (always a mess :frowning_face:)
+[LoFi](https://music.youtube.com/playlist?list=PLe4sSJz8fEMg-E5fxu-FZpgQnih3clC7G)</td><td>[Solon](https://music.youtube.com/playlist?list=PLe4sSJz8fEMh6SPVl-Kt5v6996285UKU_)</td><td>[Alto](https://music.youtube.com/playlist?list=PLe4sSJz8fEMitxzVNgEFAiOb6IKHOsCFE)</td><td>[Dawn](https://music.youtube.com/playlist?list=PLe4sSJz8fEMgBj18kDE34FMdtKmwGiAnU)</td><td>[HEAT](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhE-oZa8xeeak-qNWVIhNU)</td></tr><tr align="center"><td>[Sqeet](https://music.youtube.com/playlist?list=PLe4sSJz8fEMj_cvxN6vbcCIVyshArRsvl)</td><td>[WorkFM](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhphyFrKkqA0-F_60qTXirK)</td><td>[WokeOff](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhQpFJD8qE9pyOAD0xolMtt)</td><td>greystare</td><td>[Candid](https://music.youtube.com/playlist?list=PLe4sSJz8fEMiLoia6WBjiaaI4A6ZKh7TQ)</td></tr></table>
 
-## Elses
+> [!NOTE]\
+> Some playlist are private and not mentioned, while some others are incomplete or under some ongoing updates. Stay tune while some changes were made.
 
-If you wanna see how far i've learn in coding, ***[here](./knowledge.md)***.
+<h2 align="center">Goals</h2>
 
-&emsp;I'm a bit perfectionist and it's kinda hard to avoid that. It's also the reason i look a bit primitive and i just want to use my own tools which didn't make me focus on working.
+- [ ] Belajar bahasa yg tak dpt dibicarakan
+- [ ] Obtain stuff for my work n hobbs
+- [ ] 3D print extra limbs and tools
+- [ ] Crafting IRL
+- [ ] Get a fkin life
+- [ ] Conquer the world mwahaha (JK, just doin some batman stuff)
+- [ ] Become a great teacher
 
-&emsp;Not a religious person, but i don't know when i'm putting my believe in God. Sometimes i just pray you know! It's kinda more personal chat for me with my faith. When i win over something or losing, sometimes there is a time i pray or read some and there is times i forgot it. Even if everyone just gonna keep talking about it, i'm in mute and not in a mood.
+<h2 align="center"> Love, Life, & Lies</h2>
 
-&emsp;What kind of male i am? I don't know. I don't really care other thoughts, but i'm trying to be a good man. Acting nice sometimes also made bad thoughts, so i'm sorry if my words or act really hit the spot.
+- Still singlet & verijin
+- Open for 19jt loker
+- Open for serius rilesyonsip or harem
+- Love food & kuking, apalagi traktiran & dikukingin.
+- Stargazer, Owl Cat, & Pro Milker
+- Outdoor Indoor Gedor aj kidz
+- One and only, Misha 🖤🦴
+- Kanker ekonomi
 
-&emsp;I don't really like being obsessive. Even if there is someone come to me that way, i'm just gonna teach them slowly and learn others too. So if there is a girl i liked, i'd rather choose an independent feminist. 'Cause they are more mature, not so often over-ruling, and a nice lovey-dovey companion. It doesn't mean i'd be a soft person but it's helping me to control and assist myself.
+<p align="center"><b>Getting Personal?</b></p>
+<p align="center"><a href="https://ig.me/m/el.ang_?text=Misi%20bang%2C%20sry%20ganggu.%20Mau%20nanya."><img src="https://img.shields.io/badge/Message_Me!-6424ff?logo=instagram&logoColor=white" alt="DM"/></a></p>
 
-&emsp;I hate anything comes with anger, even myself. Please note anger and hype is a different kind of rage. My father bloodline was full of harsh life and rage itself, and i know it just gonna come to me too. I also try too control it, but it's making me mad that my family or someone try to make me so. Because it always put me in the intention to kill something and it's scary. Maybe it was the reason i just let myself become passive and forgiving. What's the point on keep living in the grudge anyway?
-
-Well, i'm sorry if this thing gonna be a diary by the way.
+---
+<p align="center">
+<table><tr><th><img src="https://github.com/identicons/el-ang.png" alt="PP" width="12" height="12"/>&ensp;&nbsp;Me, Myself & I</th></tr><tr><td><img src="chat/00.svg" height="20"></td></tr><tr align="right"><td><img src="chat/01.svg" height="36"></td></tr><tr><td><img src="chat/02.svg" height="36"></td></tr><tr align="right"><td><img src="chat/03.svg" height="36"/></td></tr><tr><td><img src="chat/04.svg" height="36"/></td></tr><tr><td><img src="chat/form.svg" height="26"/></td></tr></table></p>
+<h6 align="center"><a href="LICENSE">© 2020 El Roy Situmorang</a></h6>
