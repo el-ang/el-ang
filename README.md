@@ -1,40 +1,69 @@
 [![NULL](null.png)]()
-<h1 align=center>ᯂᯬᯒᯘ᯲! El Roy ᯑᯬ ᯎᯬᯀᯒ᯲ᯂᯮ!</h1>
-<p align=center><b>Problematic&emsp;·&emsp;Multi-Disciplinary Generalist&emsp;·&emsp;Homesick</b><br>Me? Ehh..? Meh... What do u see in me anyway?</p>
+<h1 align=center>ᯂᯬᯒᯘ᯲! El Roy ᯑᯬ ᯎᯬᯀᯒ᯲ᯂᯮ!<p></h1>
+<p align=center><b>Problematic&emsp;·&emsp;Hyper Generalist&emsp;·&emsp;Homesick</b><br>Me? Ehh..? Meh... What do u see in me anyway? ( ¬ ω ¬)</p>
 
-## 🍥 About
-- ⚡ **Vibes coding** while grinding XP on **JS, CSS, Py, & Lua**.
-- 🔥 Grinding XP with creative works & craftings.
-- 🧪 Evolving from solo to community or studio level.
-- 🛹 Enjoy learning, creating, & solving.
-- 🍜 **Love food & cooking**, apalagi traktiran & dikukingin.
-- ✨ Stargazer, Owl Cat, & Energetic.
-- 👟 Outdoor Indoor Gedor aj kidz
-- 🦴 One and only, Misha 🖤
-<!--
-- 👍 Officially Certified Straight, No Sissy, No Gay, H (Perv), Singlet For Life, & Roger Sumatra.
-- 👀 Open for **serius rilesyonsip** or harem (optional).
-- 💸 **Kanker ekonomi**. Open for 19jt lapak.
--->
+## 🍥 Read Me!
+<img align=right src="https://cdn.simpleicons.org/zig/ffcf36" alt="Zig" width="32px" height="32px"/>
+<img align=right src="svg/vlk.svg" alt="Vulkan" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/lua/6424ff" alt="Lua" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/graphql/ff3636" alt="GraphQL" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/python/6424ff" alt="Python" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/javascript/ffcf36" alt="JS" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/css/6424ff" alt="CSS" width="32px" height="32px"/>
+<p>⚡ Creating dreams with <b>CSS, JS, Py, Lua, & Zig</b>.</p>
+<!-- <img align=right src="https://cdn.simpleicons.org/raspberrypi/ff3636" alt="RaspberryPi" width="32px" height="32px"/> -->
+<!-- <img align=right src="svg/ico/uno.svg" alt="Arduino" width="92px" height="32px"/> -->
+<img align=right src="https://cdn.simpleicons.org/espressif/ff3636" alt="ESP32" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/riscv/6424ff" alt="RISC-V" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/css/00000000" alt="&emsp;" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/blender/ffcf36" alt="Blender" width="32px" height="32px"/>
+<img align=right src="svg/adb.svg" alt="Adobe" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/figma/6424ff" alt="Figma" width="32px" height="32px"/>
+<p>🔥 Grinding XP with creative works, craftings, & mini bosses.</p>
+<img align=right src="https://cdn.simpleicons.org/docker/6424ff" alt="Docker" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/git/ff3636" alt="Git" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/vercel/6424ff" alt="Vercel" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/css/00000000" alt="&emsp;" width="32px" height="32px"/>
+<img align=right src="svg/gpt.svg" alt="OpenAI" width="32px" height="32px"/>
+<img align=right src="svg/vsc.svg" alt="VSC" width="32px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/obsidian/6424ff" alt="Obsidian" width="32px" height="32px"/>
+<p>🛹 Solo leveling & evolving to community or studio level.</p>
+<img align=right src="https://cdn.simpleicons.org/huggingface/ffcf36" alt="Hugging Face" width="32px" height="32px"/>
+<img align=right src="svg/kgl.svg" alt="Kaggle" width="84px" height="32px"/>
+<img align=right src="svg/n8n.svg" alt="n8n" width="84px" height="32px"/>
+<img align=right src="https://cdn.simpleicons.org/jupyter/ffcf36" alt="Jupyter" width="32px" height="32px"/>
+<p>🧪 Enjoy learning, creating, & solving.</p>
+
+🍜 **Love food & cooking**, apalagi traktiran & dikukingin.
 > [!TIP]
-> Evaluations are relative. Better face me in person!
+> Perceptions may vary. Better meet me in person!
+## 🎮 Game On!
+✨ Stargazer, Owl Cat, & Energetic.
+<p>
+    <img src="https://github.com/Anuken/Mindustry/blob/master/android/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="Mindustry" width="36px" height="36px"/>&emsp;
+    <img src="https://cdn.simpleicons.org/valorant/ff3636" alt="Valorant" width="32px" height="32px"/>&emsp;
+    <img src="https://starblast.io/static/img/icon64.png" alt="Starblast" width="36px" height="36px">&emsp;
+    <img src="svg/mc.svg" alt="Minecraft" width="32px" height="32px"/>&emsp;
+    <img src="https://github.com/survev/survev/blob/master/client/public/favicon.ico?raw=true" alt="Surviv" width="36px" height="36px">
+</p>
 
-<h2 align=center>📦 Stack</h2><table align=center><col align=center><td align=center><b>Tech</b></td><td align=center><b>Tools</b></td><td align=center><b>Games</b></td></col><col align=center>
+> **👾 Invite Me!**<br>Outdoor? Indoor? Gedor aj kidz! 👟<p>[![Discord](https://img.shields.io/badge/el.ang__-6424ff?logo=discord&logoColor=fff)](https://discord.com/users/668427384910905354)&ensp;&ensp;&ensp;[![Itch.io](https://img.shields.io/badge/Coming_Soon-ff3636?logo=itch.io&logoColor=fff)]()&ensp;&ensp;&ensp;[![Steam](https://img.shields.io/badge/el--ang-6424ff?logo=steam&logoColor=fff)](https://steamcommunity.com/id/el-ang)
+## 🎵 Tune In!
+🖤 Misha, One and only
 
-<td align=center><img src="https://cdn.simpleicons.org/javascript/ffcf36" alt="JavaScript" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/css/6424ff" alt="CSS" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/graphql/ff3636" alt="GraphQL" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/python/6424ff" alt="Python" width="32" height="32"/><br><img src="svg/ico/vulk.svg" alt="Vulkan" width="112" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/lua/6424ff" alt="Lua" width="32" height="32"/></td>
+**[LoFi](https://music.youtube.com/playlist?list=PLe4sSJz8fEMg-E5fxu-FZpgQnih3clC7G)&emsp;·&emsp;[Solon](https://music.youtube.com/playlist?list=PLe4sSJz8fEMh6SPVl-Kt5v6996285UKU_)&emsp;·&emsp;[Alto](https://music.youtube.com/playlist?list=PLe4sSJz8fEMitxzVNgEFAiOb6IKHOsCFE)&emsp;·&emsp;[Dawn](https://music.youtube.com/playlist?list=PLe4sSJz8fEMgBj18kDE34FMdtKmwGiAnU)&emsp;·&emsp;[HEAT](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhE-oZa8xeeak-qNWVIhNU)&emsp;·&emsp;[Sqeet](https://music.youtube.com/playlist?list=PLe4sSJz8fEMj_cvxN6vbcCIVyshArRsvl)&emsp;·&emsp;[WorkFM](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhphyFrKkqA0-F_60qTXirK)&emsp;·&emsp;[WokeOff](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhQpFJD8qE9pyOAD0xolMtt)&emsp;·&emsp;greystare&emsp;·&emsp;[Candid](https://music.youtube.com/playlist?list=PLe4sSJz8fEMiLoia6WBjiaaI4A6ZKh7TQ)&emsp;·&emsp;[LOUSY](https://music.youtube.com/playlist?list=PLe4sSJz8fEMi4rynJy8NRmLCn7VWmpgkl)**
+> 🎶 **Keep Note!**<br>Some playlists are private and not mentioned, while some others are incomplete or under some ongoing updates.<br>You could stay tune while some changes were made. (^ ω ^ )
 
-<td align=center><div><img src="https://cdn.simpleicons.org/obsidian/6424ff" alt="Obsidian" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/openai/64cf8f" alt="OpenAI" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/figma/6424ff" alt="Figma" width="32" height="32"/>&ensp;<img src="svg/ico/vsc.svg" alt="Visual Studio Code" width="32" height="32"/><br><img src="svg/ico/n8n.svg" alt="n8n" width="72" height="32"/>&ensp;<img src="svg/ico/uno.svg" alt="Arduino" width="72" height="32"/></div><div><img src="https://cdn.simpleicons.org/jupyter/ffcf36" alt="Jupyter" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/github/6424ff" alt="GitHub" width="32" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/claude/ffcf36" alt="Claude" width="32" height="32"/>&ensp;<img src="svg/ico/adb.svg" alt="Adobe" width="32" height="32"/><br><img src="https://cdn.simpleicons.org/raspberrypi/ff3636" alt="RaspberryPi" width="32" height="32"/>&ensp;<img src="svg/ico/kgl.svg" alt="Kaggle" width="72" height="32"/>&ensp;<img src="https://cdn.simpleicons.org/huggingface/ffcf36" alt="Hugging Face" width="32" height="32"/></div></td>
 
-<td align=center><img src="https://cdn.simpleicons.org/valorant/ff3636" alt="Valorant" width="32" height="32"/>&ensp;<img src="svg/ico/mc.svg" alt="Minecraft" width="32" height="32"/>&ensp;<img src="https://github.com/Anuken/Mindustry/blob/master/ios/data/Assets.xcassets/AppIcon.appiconset/icon-512.png?raw=true" alt="Mindustry" width="32" height="32"/><br><b><small><small>Invite Me!</small></small></b><br>
 
-[![Discord](https://img.shields.io/badge/el.ang__-6424ff?logo=discord&logoColor=fff)](https://discord.com/users/668427384910905354)&ensp;[![Steam](https://img.shields.io/badge/el--ang-6424ff?logo=steam&logoColor=fff)](https://steamcommunity.com/id/el-ang)<br>[![Itch.io](https://img.shields.io/badge/Coming_Soon-ff3636?logo=itch.io&logoColor=fff)]()</td></col></table>
+<!--
+👍 Officially Certified Straight, No Sissy, No Gay, H (Perv), Singlet For Life, & Roger Sumatra.
 
-## 🎵 Music
-**[LoFi](https://music.youtube.com/playlist?list=PLe4sSJz8fEMg-E5fxu-FZpgQnih3clC7G)&emsp;·&emsp;[Solon](https://music.youtube.com/playlist?list=PLe4sSJz8fEMh6SPVl-Kt5v6996285UKU_)&emsp;·&emsp;[Alto](https://music.youtube.com/playlist?list=PLe4sSJz8fEMitxzVNgEFAiOb6IKHOsCFE)&emsp;·&emsp;[Dawn](https://music.youtube.com/playlist?list=PLe4sSJz8fEMgBj18kDE34FMdtKmwGiAnU)&emsp;·&emsp;[HEAT](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhE-oZa8xeeak-qNWVIhNU)&emsp;·&emsp;[Sqeet](https://music.youtube.com/playlist?list=PLe4sSJz8fEMj_cvxN6vbcCIVyshArRsvl)&emsp;·&emsp;[WorkFM](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhphyFrKkqA0-F_60qTXirK)&emsp;·&emsp;[WokeOff](https://music.youtube.com/playlist?list=PLe4sSJz8fEMhQpFJD8qE9pyOAD0xolMtt)&emsp;·&emsp;greystare&emsp;·&emsp;[Candid](https://music.youtube.com/playlist?list=PLe4sSJz8fEMiLoia6WBjiaaI4A6ZKh7TQ)**
-> [!NOTE]
-> Some playlist are private and not mentioned, while some others are incomplete or under some ongoing updates. You could stay tunes while some changes were made.
+👀 Open for **serius rilesyonsip** or harem (optional).
 
-<!-- ## 💯 Goals
+💸 **Kanker ekonomi**. Open for 19jt lapak.
+
+## 💯 Goals
 - [ ] Belajar bahasa yg tak dpt dibicarakan
 - [ ] Get a fkin life (broke af)
 - [ ] Obtain stuff for my work n hobbs
